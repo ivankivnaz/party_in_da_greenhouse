@@ -5,6 +5,7 @@
 - collect environment data: temperature, humidity ... (perhaps can be extracted into its own context later)
 
 all those tasks might be configured/triggered via mobile/web ui
+![image](https://drive.google.com/uc?export=view&id=1buCCjQNNeRVUTDENRBze5V1333_2JLoC)
 
 ### PlantsInventory (things which might done by an owner/worker)
 - plant a new plant ;)
